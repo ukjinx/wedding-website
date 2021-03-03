@@ -4763,7 +4763,7 @@ button.close {
 .white-text-container h4,
 .white-text-container h5,
 .white-text-container p {
-  color: rgb(0, 0, 0);
+  color: white;
 }
 @media (max-width: 992px) {
   .address-container {
