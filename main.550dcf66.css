@@ -78,6 +78,7 @@ sup {
   position: relative;
   vertical-align: baseline;
 }
+
 sup {
   top: -0.5em;
 }
@@ -5040,6 +5041,7 @@ label {
 }
 .carousel-caption {
   color: #838383;
+  opacity: 0.7;
   text-shadow: none;
   position: relative;
   background-color: #fff;
