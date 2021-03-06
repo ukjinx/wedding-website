@@ -298,8 +298,8 @@ img {
 }
 .img-responsive {
   display: block;
-  max-width: 100%;
-  height: auto;
+  width:800px;
+  height: 450px;
 }
 .img-rounded {
   border-radius: 4px;
